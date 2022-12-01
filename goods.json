@@ -1,8 +1,8 @@
 [
     {
         "id": "cl_1",
-        "name": "Фотография: cl-1",
-        "description": "Свадьба на Диком Западе",
+        "name": "Свадьба",
+        "description": "Свадьба на Диком Западе. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_01.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -10,8 +10,8 @@
 
     {
         "id": "cl_2",
-        "name": "Фотография: cl-2",
-        "description": "Главная улица города Валентайн",
+        "name": "Улочки Валентайна",
+        "description": "Главная улица города Валентайн. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_02.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -19,8 +19,8 @@
 
     {
         "id": "cl_3",
-        "name": "Фотография: cl-3",
-        "description": "Паровоз, курсирующий по американским дорогам",
+        "name": "Поезд",
+        "description": "Поезд, курсирующий по американским дорогам. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_03.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -28,8 +28,8 @@
 
     {
         "id": "cl_4",
-        "name": "Фотография: cl-4",
-        "description": "Брат с сестрой сопровождают караван на мост Монсанита",
+        "name": "Караван",
+        "description": "Брат с сестрой сопровождают караван на мост Монсанита. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_04.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -37,8 +37,8 @@
 
     {
         "id": "cl_5",
-        "name": "Фотография: cl-5",
-        "description": "Вид на поместье Брейтуэйтов",
+        "name": "Поместье Брейтуэйтов",
+        "description": "Вид на поместье Брейтуэйтов. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_05.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -46,8 +46,8 @@
 
     {
         "id": "cl_6",
-        "name": "Фотография: cl-6",
-        "description": "Лавка мясника и конюшня на окраине Валентайна",
+        "name": "На окраине Валентайна",
+        "description": "Лавка мясника и конюшня на окраине Валентайна. 1897 год. Фотограф: Уильям Рэй. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_06.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -55,8 +55,8 @@
 
     {
         "id": "cl_7",
-        "name": "Фотография: cl-7",
-        "description": "Обзорная точка Аннесбурга",
+        "name": "Аннесбург",
+        "description": "Обзорная точка Аннесбурга. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_07.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -64,8 +64,8 @@
 
     {
         "id": "cl_8",
-        "name": "Фотография: cl-8",
-        "description": "Вечер в салуне",
+        "name": "Вечер в салуне",
+        "description": "Вечер в салуне. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_08.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -73,8 +73,8 @@
 
     {
         "id": "cl_9",
-        "name": "Фотография: cl-9",
-        "description": "Ковбой за барной стойкой",
+        "name": "Ковбой в салуне",
+        "description": "Ковбой за барной стойкой салуна. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_09.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -82,8 +82,8 @@
 
     {
         "id": "cl_10",
-        "name": "Фотография: cl-10",
-        "description": "Фотостудия Билли Уайта",
+        "name": "Фотостудия",
+        "description": "Фотостудия Билли Уайта. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_10.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -91,8 +91,8 @@
 
     {
         "id": "cl_11",
-        "name": "Фотография: cl-11",
-        "description": "Порт Сен-Дени",
+        "name": "Порт",
+        "description": "Так выглядел порт Сен-Дени в 1897 году. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_11.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -100,8 +100,8 @@
 
     {
         "id": "cl_12",
-        "name": "Фотография: cl-12",
-        "description": "Мельница на реке в окресностях Строберри",
+        "name": "Мельница",
+        "description": "Мельница на реке в окресностях Строберри. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_12.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -109,8 +109,8 @@
 
     {
         "id": "cl_13",
-        "name": "Фотография: cl-13",
-        "description": "Торговцы",
+        "name": "Торговцы",
+        "description": "Торговцы следующие в порт Сен-Дени. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_13.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -118,8 +118,8 @@
 
     {
         "id": "cl_14",
-        "name": "Фотография: cl-14",
-        "description": "Друзья в салуне",
+        "name": "Друзья",
+        "description": "Встреча друзей в салуне. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_14.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -127,8 +127,8 @@
 
     {
         "id": "cl_15",
-        "name": "Фотография: cl-15",
-        "description": "Мэр Валентайна",
+        "name": "Мэр",
+        "description": "Мэр Валентайна Гарфилд Донован. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_15.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -136,8 +136,8 @@
 
     {
         "id": "cl_16",
-        "name": "Фотография: cl-16",
-        "description": "Железнодорожная станция Сен-Дени",
+        "name": "Железнодорожная станция",
+        "description": "Опустевшая железнодорожная станция Сен-Дени. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_16.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -145,8 +145,8 @@
 
     {
         "id": "cl_17",
-        "name": "Фотография: cl-17",
-        "description": "У лавки мадам Назар",
+        "name": "Лавка цыганки",
+        "description": "У лавки мадам Назар. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/city%20%E2%80%8B_life/city%20%E2%80%8B_life_17.jpg",
         "price": "2 бита",
         "group": "Городская жизнь"
@@ -154,8 +154,8 @@
 
     {
         "id": "cw_1",
-        "name": "Фотография: cw-1",
-        "description": "Джим Бриджер на лошади",
+        "name": "Ковбой Джим",
+        "description": "Джим Бриджер на лошади. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_01.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -163,8 +163,8 @@
 
     {
         "id": "cw_2",
-        "name": "Фотография: cw-2",
-        "description": "Подозрительный ковбой",
+        "name": "Подозрительность",
+        "description": "Подозрительный ковбой. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_02.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -172,8 +172,8 @@
 
     {
         "id": "cw_3",
-        "name": "Фотография: cw-3",
-        "description": "Бутч Киди во всеоружии",
+        "name": "Кобвой Киди",
+        "description": "Бутч Киди во всеоружии. 1895 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_03.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -181,8 +181,8 @@
 
     {
         "id": "cw_4",
-        "name": "Фотография: cw-4",
-        "description": "Шустрый Джейн Барт",
+        "name": "Шустряк",
+        "description": "Шустрый Джейн Барт. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_04.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -190,8 +190,8 @@
 
     {
         "id": "cw_5",
-        "name": "Фотография: cw-5",
-        "description": "Кит Холидей на коне",
+        "name": "Когда ты на коне",
+        "description": "Ковбой Кит Холидей на коне. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_05.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -199,8 +199,8 @@
 
     {
         "id": "cw_6",
-        "name": "Фотография: cw-6",
-        "description": "Бутч Вейн в каньоне",
+        "name": "Ковбой в каньоне",
+        "description": "Бутч Вейн в каньоне. 1895 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_06.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -208,8 +208,8 @@
 
     {
         "id": "cw_7",
-        "name": "Фотография: cw-7",
-        "description": "Уход за лошадью",
+        "name": "В конюшне",
+        "description": "Уход за лошадью: чистка шерсти. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_07.png",
         "price": "2 бита",
         "group": "Ковбои"
@@ -217,8 +217,8 @@
 
     {
         "id": "cw_8",
-        "name": "Фотография: cw-8",
-        "description": "Энни Окланд смотрит вдаль",
+        "name": "Девушка-ковбой",
+        "description": "Энни Окланд смотрит вдаль. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_08.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -226,8 +226,8 @@
 
     {
         "id": "cw_9",
-        "name": "Фотография: cw-9",
-        "description": "Энни Окланд скачет по мосту Бахус",
+        "name": "Мост",
+        "description": "Энни Окланд скачет по мосту Бахус. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_09.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -235,8 +235,8 @@
 
     {
         "id": "cw_10",
-        "name": "Фотография: cw-10",
-        "description": "Ковбой после загона скота",
+        "name": "Закат",
+        "description": "Ковбой после загона скота любуется закатом. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/cowboys/cowboys_10.jpg",
         "price": "2 бита",
         "group": "Ковбои"
@@ -244,8 +244,8 @@
 
     {
         "id": "ah_1",
-        "name": "Фотография: ah-1",
-        "description": "Заядлая охотница Энн Денис на привале",
+        "name": "Охотница",
+        "description": "Заядлая охотница Энн Денис на привале. 1895 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_01.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -253,8 +253,8 @@
 
     {
         "id": "ah_2",
-        "name": "Фотография: ah-2",
-        "description": "Озерный осётр",
+        "name": "Большой улов",
+        "description": "По слухам, легендарный озерный осетр огромного размера был замечен неподалеку от дельты реки Ланахаси. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_02.png",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -262,8 +262,8 @@
 
     {
         "id": "ah_3",
-        "name": "Фотография: ah-3",
-        "description": "Охотница с добычей",
+        "name": "Охотница с добычей",
+        "description": "Охотница возвращается домой с хорошей добычей. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_03.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -271,8 +271,8 @@
 
     {
         "id": "ah_4",
-        "name": "Фотография: ah-4",
-        "description": "Ночная рыбалка",
+        "name": "Ночная рыбалка",
+        "description": "Ночная рыбалка с видом на горы. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_04.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -280,8 +280,8 @@
 
     {
         "id": "ah_5",
-        "name": "Фотография: ah-5",
-        "description": "В погоне за вилорогом",
+        "name": "Охота на вилорога",
+        "description": "В погоне за вилорогом. 1895 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_05.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -289,8 +289,8 @@
 
     {
         "id": "ah_6",
-        "name": "Фотография: ah-6",
-        "description": "Романтическая рыбалка",
+        "name": "Рыбалка",
+        "description": "Романтическая рыбалка. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_06.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -298,8 +298,8 @@
 
     {
         "id": "ah_7",
-        "name": "Фотография: ah-7",
-        "description": "Ковбой арканит необъезженную кобылу",
+        "name": "Метание аркана",
+        "description": "Ковбой арканит необъезженную кобылу. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_07.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -307,8 +307,8 @@
 
     {
         "id": "ah_8",
-        "name": "Фотография: ah-8",
-        "description": "Черному Кессиди и стая волков нипочем",
+        "name": "Охота на волка",
+        "description": "Черному Кессиди и стая волков нипочем. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_08.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -316,8 +316,8 @@
 
     {
         "id": "ah_9",
-        "name": "Фотография: ah-9",
-        "description": "Медвежья охота",
+        "name": "Опасная добыча",
+        "description": "Медвежья охота. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_09.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -325,8 +325,8 @@
 
     {
         "id": "ah_10",
-        "name": "Фотография: ah-10",
-        "description": "Огненная стрела",
+        "name": "Огненная стрела",
+        "description": "Охотник по прозвищу 'Огненная стрела'. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_10.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -334,8 +334,8 @@
 
     {
         "id": "ah_11",
-        "name": "Фотография: ah-11",
-        "description": "Удачная охота на Вилорога",
+        "name": "Вилорог",
+        "description": "Удачная охота на Вилорога. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_11.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -343,8 +343,8 @@
 
     {
         "id": "ah_12",
-        "name": "Фотография: ah-12",
-        "description": "Выслеживание волков",
+        "name": "Выслеживание",
+        "description": "Выслеживание волков. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/animal_hunting/animal_hunting_12.jpg",
         "price": "2 бита",
         "group": "Охота на диких животных"
@@ -352,8 +352,8 @@
 
     {
         "id": "hh_1",
-        "name": "Фотография: hh-1",
-        "description": "Скромный охотник за головами",
+        "name": "Скромник",
+        "description": "Скромный охотник за головами. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_01.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -361,8 +361,8 @@
 
     {
         "id": "hh_2",
-        "name": "Фотография: hh-2",
-        "description": "Расправа",
+        "name": "Расправа",
+        "description": "Расправа. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_02.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -370,8 +370,8 @@
 
     {
         "id": "hh_3",
-        "name": "Фотография: hh-3",
-        "description": "Тертый калач Сэди Уэйд",
+        "name": "Закалка",
+        "description": "Тертый калач Сэди Уэйд. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_03.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -379,8 +379,8 @@
 
     {
         "id": "hh_4",
-        "name": "Фотография: hh-4",
-        "description": "Удачная охота",
+        "name": "Мастерство и удача",
+        "description": "Удачная 'охота за головами'. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_04.png",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -388,8 +388,8 @@
 
     {
         "id": "hh_5",
-        "name": "Фотография: hh-5",
-        "description": "Разыскные плакаты у офиса шерифа Валентайна",
+        "name": "В розыске",
+        "description": "Разыскные плакаты у офиса шерифа Валентайна. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_05.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -397,8 +397,8 @@
 
     {
         "id": "hh_6",
-        "name": "Фотография: hh-6",
-        "description": "Дональд Салли во всеоружии",
+        "name": "Бравый герой",
+        "description": "Бравый герой Дональд Салли в ковбойской шляпе и всеоружии. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_06.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -406,8 +406,8 @@
 
     {
         "id": "hh_7",
-        "name": "Фотография: hh-7",
-        "description": "Разбой в Валентайне",
+        "name": "Разбой",
+        "description": "Разбой в Валентайне. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_07.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -415,8 +415,8 @@
 
     {
         "id": "hh_8",
-        "name": "Фотография: hh-8",
-        "description": "Разбойницы сестры Миллер",
+        "name": "Разбойницы",
+        "description": "Разбойницы сестры Миллер. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_08.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -424,8 +424,8 @@
 
     {
         "id": "hh_9",
-        "name": "Фотография: hh-9",
-        "description": "Погоня за преступником",
+        "name": "Погоня",
+        "description": "Погоня за преступником. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_09.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -433,8 +433,8 @@
 
     {
         "id": "hh_10",
-        "name": "Фотография: hh-10",
-        "description": "Разбойница Бедовая Сара",
+        "name": "Разбойница",
+        "description": "Разбойница 'Бедовая' Сара. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_10.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -442,8 +442,8 @@
 
     {
         "id": "hh_11",
-        "name": "Фотография: hh-11",
-        "description": "Нападение на поезд",
+        "name": "Нападение",
+        "description": "Нападение на поезд. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_11.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -451,8 +451,8 @@
 
     {
         "id": "hh_12",
-        "name": "Фотография: hh-12",
-        "description": "Разбой на железнодорожной станции",
+        "name": "Очередной разбой",
+        "description": "Разбой на железнодорожной станции Валентайна. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_12.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -460,8 +460,8 @@
 
     {
         "id": "hh_13",
-        "name": "Фотография: hh-13",
-        "description": "Задержание Красавчика Билли",
+        "name": "Красавчик",
+        "description": "Задержание 'Красавчика' Билли. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_13.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -469,8 +469,8 @@
 
     {
         "id": "hh_14",
-        "name": "Фотография: hh-14",
-        "description": "Семейка Джеймсов на разбое в Сен-Дени",
+        "name": "Чумовая семейка",
+        "description": "Семейка Джеймсов на разбое в Сен-Дени. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_14.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -478,8 +478,8 @@
 
     {
         "id": "hh_15",
-        "name": "Фотография: hh-15",
-        "description": "Разбойники не поделили добычу",
+        "name": "Нечестная делёж",
+        "description": "Разбойники не поделили добычу. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_15.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -487,8 +487,8 @@
 
     {
         "id": "hh_16",
-        "name": "Фотография: hh-16",
-        "description": "Засада",
+        "name": "Засада",
+        "description": "Засада. 1898 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_16.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -496,8 +496,8 @@
 
     {
         "id": "hh_17",
-        "name": "Фотография: hh-17",
-        "description": "Под прицелом законника",
+        "name": "Под прицелом",
+        "description": "Под прицелом законника. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_17.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -505,8 +505,8 @@
 
     {
         "id": "hh_18",
-        "name": "Фотография: hh-18",
-        "description": "Почти Неуловимый Сойер",
+        "name": "Неуловимый",
+        "description": "Почти 'Неуловимый' Сойер. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/headhunting/headhunting_18.jpg",
         "price": "2 бита",
         "group": "Охота за головами"
@@ -514,8 +514,8 @@
 
     {
         "id": "n_1",
-        "name": "Фотография: n-1",
-        "description": "Море Коронадо",
+        "name": "Коронадо",
+        "description": "Море Коронадо. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_01.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -523,8 +523,8 @@
 
     {
         "id": "n_2",
-        "name": "Фотография: n-2",
-        "description": "Которра-Спрингс — регион с геотермальными источниками и гейзерами",
+        "name": "Которра-Спрингс",
+        "description": "Которра-Спрингс — регион с геотермальными источниками и гейзерами. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_02.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -532,8 +532,8 @@
 
     {
         "id": "n_3",
-        "name": "Фотография: n-3",
-        "description": "Ручей ястребиного глаза",
+        "name": "Ручей",
+        "description": "Ручей ястребиного глаза. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_03.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -541,8 +541,8 @@
 
     {
         "id": "n_4",
-        "name": "Фотография: n-4",
-        "description": "Гора Шэнн",
+        "name": "Гора",
+        "description": "Гора Шэнн. 1895 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_04.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -550,8 +550,8 @@
 
     {
         "id": "n_5",
-        "name": "Фотография: n-5",
-        "description": "Млечный путь",
+        "name": "Ночное небо",
+        "description": "Млечный путь в ночном небе. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_05.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -559,8 +559,8 @@
 
     {
         "id": "n_6",
-        "name": "Фотография: n-6",
-        "description": "Водопад Доннер",
+        "name": "Водопад",
+        "description": "Величавый Водопад Доннер. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_06.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -568,8 +568,8 @@
 
     {
         "id": "n_7",
-        "name": "Фотография: n-7",
-        "description": "Гора Хаген",
+        "name": "Да, прольется свет!",
+        "description": "Гора Хаген в лучах солнца. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_7.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -577,8 +577,8 @@
 
     {
         "id": "n_8",
-        "name": "Фотография: n-8",
-        "description": "Окрестности Блэкуотера",
+        "name": "Окрестности",
+        "description": "Окрестности Блэкуотера. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_8.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -586,8 +586,8 @@
 
     {
         "id": "n_9",
-        "name": "Фотография: n-9",
-        "description": "Река Монтана",
+        "name": "Река",
+        "description": "Река Монтана. 1896 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_9.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -595,8 +595,8 @@
 
     {
         "id": "n_10",
-        "name": "Фотография: n-10",
-        "description": "Загадочное сооружение на вершине горы",
+        "name": "На вершине мира",
+        "description": "Загадочное сооружение на вершине горы. 1897 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_10.jpg",
         "price": "2 бита",
         "group": "Природа"
@@ -604,8 +604,8 @@
 
     {
         "id": "n_11",
-        "name": "Фотография: n-11",
-        "description": "Дорога на Роудс",
+        "name": "Дорога",
+        "description": "Дорога на Роудс. 1899 год. Фотограф: Уильям Рэй.",
         "img": "https://raw.githubusercontent.com/Raushaniam/Assets-for-the-final-project-in-Innopolis/main/assets/nature/nature_11.jpg",
         "price": "2 бита",
         "group": "Природа"
